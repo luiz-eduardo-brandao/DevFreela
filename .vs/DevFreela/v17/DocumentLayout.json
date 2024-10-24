@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "C:\\edu\\studies\\DevFreela\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DCA2DF0-DEAF-4535-85DE-126520ADCFFF}|DevFreela.Application\\DevFreela.Application.csproj|c:\\edu\\studies\\devfreela\\devfreela.application\\commands\\loginuser\\loginuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DCA2DF0-DEAF-4535-85DE-126520ADCFFF}|DevFreela.Application\\DevFreela.Application.csproj|solutionrelative:devfreela.application\\commands\\loginuser\\loginuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DCA2DF0-DEAF-4535-85DE-126520ADCFFF}|DevFreela.Application\\DevFreela.Application.csproj|c:\\edu\\studies\\devfreela\\devfreela.application\\consumers\\paymentapprovedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCA2DF0-DEAF-4535-85DE-126520ADCFFF}|DevFreela.Application\\DevFreela.Application.csproj|solutionrelative:devfreela.application\\consumers\\paymentapprovedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33036A5F-16B8-4D83-91BC-E5892C7EB54E}|DevFreela.API\\DevFreela.API.csproj|c:\\edu\\studies\\devfreela\\devfreela.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33036A5F-16B8-4D83-91BC-E5892C7EB54E}|DevFreela.API\\DevFreela.API.csproj|solutionrelative:devfreela.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6EF995F-3855-44B0-BA6C-C058E9C6BD06}|DevFreela.Payments.API\\DevFreela.Payments.API.csproj|c:\\edu\\studies\\devfreela\\devfreela.payments.api\\consumers\\processpaymentconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EF995F-3855-44B0-BA6C-C058E9C6BD06}|DevFreela.Payments.API\\DevFreela.Payments.API.csproj|solutionrelative:devfreela.payments.api\\consumers\\processpaymentconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33036A5F-16B8-4D83-91BC-E5892C7EB54E}|DevFreela.API\\DevFreela.API.csproj|c:\\edu\\studies\\devfreela\\devfreela.api\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33036A5F-16B8-4D83-91BC-E5892C7EB54E}|DevFreela.API\\DevFreela.API.csproj|solutionrelative:devfreela.api\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F3AA8B0-23A1-416A-BD6B-083461B67505}|DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj|c:\\edu\\studies\\devfreela\\devfreela.infrastructure\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3AA8B0-23A1-416A-BD6B-083461B67505}|DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj|solutionrelative:devfreela.infrastructure\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DCA2DF0-DEAF-4535-85DE-126520ADCFFF}|DevFreela.Application\\DevFreela.Application.csproj|c:\\edu\\studies\\devfreela\\devfreela.application\\commands\\createuser\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DCA2DF0-DEAF-4535-85DE-126520ADCFFF}|DevFreela.Application\\DevFreela.Application.csproj|solutionrelative:devfreela.application\\commands\\createuser\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DCA2DF0-DEAF-4535-85DE-126520ADCFFF}|DevFreela.Application\\DevFreela.Application.csproj|c:\\edu\\studies\\devfreela\\devfreela.application\\commands\\createuser\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DCA2DF0-DEAF-4535-85DE-126520ADCFFF}|DevFreela.Application\\DevFreela.Application.csproj|solutionrelative:devfreela.application\\commands\\createuser\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33036A5F-16B8-4D83-91BC-E5892C7EB54E}|DevFreela.API\\DevFreela.API.csproj|c:\\edu\\studies\\devfreela\\devfreela.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33036A5F-16B8-4D83-91BC-E5892C7EB54E}|DevFreela.API\\DevFreela.API.csproj|solutionrelative:devfreela.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DCA2DF0-DEAF-4535-85DE-126520ADCFFF}|DevFreela.Application\\DevFreela.Application.csproj|c:\\edu\\studies\\devfreela\\devfreela.application\\applicationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCA2DF0-DEAF-4535-85DE-126520ADCFFF}|DevFreela.Application\\DevFreela.Application.csproj|solutionrelative:devfreela.application\\applicationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,99 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\edu\\studies\\DevFreela\\DevFreela.API\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "DevFreela.API\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\edu\\studies\\DevFreela\\DevFreela.API\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "DevFreela.API\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAYwC0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T19:44:22.797Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProjectsController.cs",
-              "DocumentMoniker": "C:\\edu\\studies\\DevFreela\\DevFreela.API\\Controllers\\ProjectsController.cs",
-              "RelativeDocumentMoniker": "DevFreela.API\\Controllers\\ProjectsController.cs",
-              "ToolTip": "C:\\edu\\studies\\DevFreela\\DevFreela.API\\Controllers\\ProjectsController.cs",
-              "RelativeToolTip": "DevFreela.API\\Controllers\\ProjectsController.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAcwFcAAAAMAAAAAAAAAA==",
+              "Title": "ApplicationModule.cs",
+              "DocumentMoniker": "C:\\edu\\studies\\DevFreela\\DevFreela.Application\\ApplicationModule.cs",
+              "RelativeDocumentMoniker": "DevFreela.Application\\ApplicationModule.cs",
+              "ToolTip": "C:\\edu\\studies\\DevFreela\\DevFreela.Application\\ApplicationModule.cs",
+              "RelativeToolTip": "DevFreela.Application\\ApplicationModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T19:54:22.552Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-10-23T19:52:13.884Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LoginUserHandler.cs",
-              "DocumentMoniker": "C:\\edu\\studies\\DevFreela\\DevFreela.Application\\Commands\\LoginUser\\LoginUserHandler.cs",
-              "RelativeDocumentMoniker": "DevFreela.Application\\Commands\\LoginUser\\LoginUserHandler.cs",
-              "ToolTip": "C:\\edu\\studies\\DevFreela\\DevFreela.Application\\Commands\\LoginUser\\LoginUserHandler.cs",
-              "RelativeToolTip": "DevFreela.Application\\Commands\\LoginUser\\LoginUserHandler.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Title": "PaymentApprovedConsumer.cs",
+              "DocumentMoniker": "C:\\edu\\studies\\DevFreela\\DevFreela.Application\\Consumers\\PaymentApprovedConsumer.cs",
+              "RelativeDocumentMoniker": "DevFreela.Application\\Consumers\\PaymentApprovedConsumer.cs",
+              "ToolTip": "C:\\edu\\studies\\DevFreela\\DevFreela.Application\\Consumers\\PaymentApprovedConsumer.cs",
+              "RelativeToolTip": "DevFreela.Application\\Consumers\\PaymentApprovedConsumer.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowEoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T20:48:10.089Z",
+              "WhenOpened": "2024-10-23T19:52:02.538Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateUserHandler.cs",
-              "DocumentMoniker": "C:\\edu\\studies\\DevFreela\\DevFreela.Application\\Commands\\CreateUser\\CreateUserHandler.cs",
-              "RelativeDocumentMoniker": "DevFreela.Application\\Commands\\CreateUser\\CreateUserHandler.cs",
-              "ToolTip": "C:\\edu\\studies\\DevFreela\\DevFreela.Application\\Commands\\CreateUser\\CreateUserHandler.cs",
-              "RelativeToolTip": "DevFreela.Application\\Commands\\CreateUser\\CreateUserHandler.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBsAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ProcessPaymentConsumer.cs",
+              "DocumentMoniker": "C:\\edu\\studies\\DevFreela\\DevFreela.Payments.API\\Consumers\\ProcessPaymentConsumer.cs",
+              "RelativeDocumentMoniker": "DevFreela.Payments.API\\Consumers\\ProcessPaymentConsumer.cs",
+              "ToolTip": "C:\\edu\\studies\\DevFreela\\DevFreela.Payments.API\\Consumers\\ProcessPaymentConsumer.cs",
+              "RelativeToolTip": "DevFreela.Payments.API\\Consumers\\ProcessPaymentConsumer.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwFMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T20:47:11.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateUserCommand.cs",
-              "DocumentMoniker": "C:\\edu\\studies\\DevFreela\\DevFreela.Application\\Commands\\CreateUser\\CreateUserCommand.cs",
-              "RelativeDocumentMoniker": "DevFreela.Application\\Commands\\CreateUser\\CreateUserCommand.cs",
-              "ToolTip": "C:\\edu\\studies\\DevFreela\\DevFreela.Application\\Commands\\CreateUser\\CreateUserCommand.cs",
-              "RelativeToolTip": "DevFreela.Application\\Commands\\CreateUser\\CreateUserCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T20:47:10.843Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\edu\\studies\\DevFreela\\DevFreela.API\\Program.cs",
-              "RelativeDocumentMoniker": "DevFreela.API\\Program.cs",
-              "ToolTip": "C:\\edu\\studies\\DevFreela\\DevFreela.API\\Program.cs",
-              "RelativeToolTip": "DevFreela.API\\Program.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T19:50:24.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\edu\\studies\\DevFreela\\DevFreela.Infrastructure\\Auth\\AuthService.cs",
-              "RelativeDocumentMoniker": "DevFreela.Infrastructure\\Auth\\AuthService.cs",
-              "ToolTip": "C:\\edu\\studies\\DevFreela\\DevFreela.Infrastructure\\Auth\\AuthService.cs",
-              "RelativeToolTip": "DevFreela.Infrastructure\\Auth\\AuthService.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAA9wEEAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T19:49:24.284Z",
+              "WhenOpened": "2024-10-23T19:50:19.486Z",
               "EditorCaption": ""
             }
           ]

@@ -155,3 +155,6 @@ C:\edu\studies\DevFreela\DevFreela.API\bin\Debug\net8.0\FluentValidation.dll
 C:\edu\studies\DevFreela\DevFreela.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 C:\edu\studies\DevFreela\DevFreela.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\edu\studies\DevFreela\DevFreela.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\edu\studies\DevFreela\DevFreela.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\edu\studies\DevFreela\DevFreela.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\edu\studies\DevFreela\DevFreela.API\bin\Debug\net8.0\Microsoft.Extensions.Http.dll

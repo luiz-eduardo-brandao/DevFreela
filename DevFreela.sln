@@ -5,11 +5,15 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevFreela.API", "DevFreela.API\DevFreela.API.csproj", "{33036A5F-16B8-4D83-91BC-E5892C7EB54E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevFreela.Core", "DevFreela.Core\DevFreela.Core.csproj", "{CA8A853D-32CC-483A-A256-684DD72AF4EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevFreela.Core", "DevFreela.Core\DevFreela.Core.csproj", "{CA8A853D-32CC-483A-A256-684DD72AF4EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevFreela.Infrastructure", "DevFreela.Infrastructure\DevFreela.Infrastructure.csproj", "{3F3AA8B0-23A1-416A-BD6B-083461B67505}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevFreela.Infrastructure", "DevFreela.Infrastructure\DevFreela.Infrastructure.csproj", "{3F3AA8B0-23A1-416A-BD6B-083461B67505}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevFreela.Application", "DevFreela.Application\DevFreela.Application.csproj", "{3DCA2DF0-DEAF-4535-85DE-126520ADCFFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevFreela.Application", "DevFreela.Application\DevFreela.Application.csproj", "{3DCA2DF0-DEAF-4535-85DE-126520ADCFFF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevFreela.UnitTests", "DevFreela.UnitTests\DevFreela.UnitTests.csproj", "{A19EAB1D-2629-4ACD-9662-0274B1BBE57F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevFreela.Payments.API", "DevFreela.Payments.API\DevFreela.Payments.API.csproj", "{A6EF995F-3855-44B0-BA6C-C058E9C6BD06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{3DCA2DF0-DEAF-4535-85DE-126520ADCFFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DCA2DF0-DEAF-4535-85DE-126520ADCFFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DCA2DF0-DEAF-4535-85DE-126520ADCFFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A19EAB1D-2629-4ACD-9662-0274B1BBE57F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A19EAB1D-2629-4ACD-9662-0274B1BBE57F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A19EAB1D-2629-4ACD-9662-0274B1BBE57F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A19EAB1D-2629-4ACD-9662-0274B1BBE57F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6EF995F-3855-44B0-BA6C-C058E9C6BD06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6EF995F-3855-44B0-BA6C-C058E9C6BD06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6EF995F-3855-44B0-BA6C-C058E9C6BD06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6EF995F-3855-44B0-BA6C-C058E9C6BD06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
